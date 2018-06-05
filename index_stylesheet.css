@@ -1,0 +1,31 @@
+h1, h2, h3, h4, h5, h6, ul {
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  list-style-type: none;
+}
+
+body {
+  background-image: url(imgs/bg.jpg);
+  background-attachment: fixed;
+}
+
+
+.wrap {
+  margin: 150px;
+  padding: 30px;
+}
+
+.wrap .dogs {
+  text-align: center;
+}
+
+
+.wrap .dogs img.profile {
+  width: 100px;
+  border-radius: 100px;
+  border: 5px solid #ffffff;
+  margin: 20px 130px;
+}
